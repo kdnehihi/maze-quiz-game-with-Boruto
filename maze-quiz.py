@@ -1,9 +1,5 @@
-# Final Project
-# CS 111, Hayes & Reckinger
-
-# Final Project
-# CS 111, Hayes & Reckinger
-# Rohan Jawale and Dinh
+# Maze and Quiz with Boruto game
+# authors: Dinh Dang Khoa Tran and Rohan
 
 import turtle
 import random
