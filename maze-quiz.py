@@ -25,7 +25,6 @@ for i in range(1, 11):  #add shapes for all questions
 turtle.addshape("correct.gif")
 turtle.addshape("incorrect.gif")
 turtle.addshape("gameover.gif")
-turtle.addshape("tryagain.gif")
 g1 = turtle.Turtle()  #game over screen image
 g1.hideturtle()
 questionsFile = open("questions.txt")
